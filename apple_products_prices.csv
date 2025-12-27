@@ -1,0 +1,109 @@
+Category,Product,Price,Storage_GB,Color,Chip,Spec_Text
+iPad,iPad mini (A15 Chip),170000,64,Space Grey,A15,iPad mini (A15 Chip) A15 64GB Space Grey
+iPad,iPad mini (A15 Chip),215000,256,Space Grey,A15,iPad mini (A15 Chip) A15 256GB Space Grey
+iPad,iPad mini (A15 Chip),170000,64,Pink,A15,iPad mini (A15 Chip) A15 64GB Pink
+iPad,iPad mini (A15 Chip),215000,256,Pink,A15,iPad mini (A15 Chip) A15 256GB Pink
+iPad,iPad mini (A15 Chip),170000,64,Purple,A15,iPad mini (A15 Chip) A15 64GB Purple
+iPad,iPad mini (A15 Chip),215000,256,Purple,A15,iPad mini (A15 Chip) A15 256GB Purple
+iPad,iPad mini (A15 Chip),170000,64,Starlight,A15,iPad mini (A15 Chip) A15 64GB Starlight
+iPad,iPad mini (A15 Chip),215000,256,Starlight,A15,iPad mini (A15 Chip) A15 256GB Starlight
+Watch,Apple Watch Series 10,289999,0,Natural,Unknown,Apple Watch Series 10 Unknown 0GB Natural
+Watch,Apple Watch Series 10,289999,0,Slate,Unknown,Apple Watch Series 10 Unknown 0GB Slate
+Watch,Apple Watch Series 10,289999,0,Gold,Unknown,Apple Watch Series 10 Unknown 0GB Gold
+Watch,Apple Watch Series 10,268499,0,Gold,Unknown,Apple Watch Series 10 Unknown 0GB Gold
+Watch,Apple Watch Series 10,268499,0,Natural,Unknown,Apple Watch Series 10 Unknown 0GB Natural
+Watch,Apple Watch Series 10,129999,0,Unknown,Unknown,Apple Watch Series 10 Unknown 0GB Unknown
+Watch,Apple Watch Series 10,139999,0,Unknown,Unknown,Apple Watch Series 10 Unknown 0GB Unknown
+Watch,Apple Watch Series 10,268499,0,Slate,Unknown,Apple Watch Series 10 Unknown 0GB Slate
+Watch,Apple Watch Series 10,154999,0,Silver,Unknown,Apple Watch Series 10 Unknown 0GB Silver
+Watch,Apple Watch Series 10,154999,0,Rose Gold,Unknown,Apple Watch Series 10 Unknown 0GB Rose Gold
+Watch,Apple Watch Series 10,154999,0,Jet Black,Unknown,Apple Watch Series 10 Unknown 0GB Jet Black
+iPad,iPad Pro (M4 Chip),390000,512,Silver,M4,iPad Pro (M4 Chip) M4 512GB Silver
+iPad,iPad Pro (M4 Chip),390000,512,Space Black,M4,iPad Pro (M4 Chip) M4 512GB Space Black
+iPad,iPad Pro (M4 Chip),450000,512,Silver,M4,iPad Pro (M4 Chip) M4 512GB Silver
+iPad,iPad Pro (M4 Chip),450000,512,Space Black,M4,iPad Pro (M4 Chip) M4 512GB Space Black
+iPad,iPad Pro (M4 Chip),315000,256,Silver,M4,iPad Pro (M4 Chip) M4 256GB Silver
+iPad,iPad Pro (M4 Chip),315000,256,Space Black,M4,iPad Pro (M4 Chip) M4 256GB Space Black
+iPad,iPad Pro (M4 Chip),405000,256,Silver,M4,iPad Pro (M4 Chip) M4 256GB Silver
+iPad,iPad Pro (M4 Chip),405000,256,Space Black,M4,iPad Pro (M4 Chip) M4 256GB Space Black
+iPad,iPad Air (M2 Chip),260000,128,Space Gray,M2,iPad Air (M2 Chip) M2 128GB Space Gray
+iPad,iPad Air (M2 Chip),280000,256,Space Gray,M2,iPad Air (M2 Chip) M2 256GB Space Gray
+iPad,iPad Air (M2 Chip),320000,512,Space Gray,M2,iPad Air (M2 Chip) M2 512GB Space Gray
+iPad,iPad Air (M2 Chip),260000,128,Blue,M2,iPad Air (M2 Chip) M2 128GB Blue
+iPad,iPad Air (M2 Chip),280000,256,Blue,M2,iPad Air (M2 Chip) M2 256GB Blue
+iPad,iPad Air (M2 Chip),320000,512,Blue,M2,iPad Air (M2 Chip) M2 512GB Blue
+iPad,iPad Air (M2 Chip),260000,128,Purple,M2,iPad Air (M2 Chip) M2 128GB Purple
+iPad,iPad Air (M2 Chip),280000,256,Purple,M2,iPad Air (M2 Chip) M2 256GB Purple
+iPad,iPad Air (M2 Chip),320000,512,Purple,M2,iPad Air (M2 Chip) M2 512GB Purple
+iPad,iPad Air (M2 Chip),260000,128,Starlight,M2,iPad Air (M2 Chip) M2 128GB Starlight
+iPad,iPad Air (M2 Chip),280000,256,Starlight,M2,iPad Air (M2 Chip) M2 256GB Starlight
+iPad,iPad Air (M2 Chip),320000,512,Starlight,M2,iPad Air (M2 Chip) M2 512GB Starlight
+iPad,iPad Air (M2 Chip),300000,128,Space Gray,M2,iPad Air (M2 Chip) M2 128GB Space Gray
+iPad,iPad Air (M2 Chip),350000,256,Space Gray,M2,iPad Air (M2 Chip) M2 256GB Space Gray
+iPad,iPad Air (M2 Chip),300000,128,Blue,M2,iPad Air (M2 Chip) M2 128GB Blue
+iPad,iPad Air (M2 Chip),350000,256,Blue,M2,iPad Air (M2 Chip) M2 256GB Blue
+iPad,iPad Air (M2 Chip),300000,128,Purple,M2,iPad Air (M2 Chip) M2 128GB Purple
+iPad,iPad Air (M2 Chip),350000,256,Purple,M2,iPad Air (M2 Chip) M2 256GB Purple
+iPad,iPad Air (M2 Chip),300000,128,Starlight,M2,iPad Air (M2 Chip) M2 128GB Starlight
+iPad,iPad Air (M2 Chip),350000,256,Starlight,M2,iPad Air (M2 Chip) M2 256GB Starlight
+iPhone,iPhone 16e,329999,128,Unknown,Unknown,iPhone 16e Unknown 128GB Unknown
+iPhone,iPhone 16e,229999,128,Unknown,Unknown,iPhone 16e Unknown 128GB Unknown
+Mac,Macbook Pro,529999,16,Unknown,Unknown,Macbook Pro Unknown 16GB Unknown
+Mac,Macbook Pro,559999,8192,Silver,Unknown,Macbook Pro Unknown 8192GB Silver
+Mac,Macbook Pro,559999,8192,Space Gray,Unknown,Macbook Pro Unknown 8192GB Space Gray
+Mac,Macbook Pro,519999,8,Silver,Unknown,Macbook Pro Unknown 8GB Silver
+Mac,Macbook Pro,519999,8,Space Gray,Unknown,Macbook Pro Unknown 8GB Space Gray
+Mac,Macbook Pro,900499,24,Unknown,Unknown,Macbook Pro Unknown 24GB Unknown
+Watch,Apple Watch Ultra 2,279999,0,Natural,Unknown,Apple Watch Ultra 2 Unknown 0GB Natural
+Watch,Apple Watch Ultra 2,279999,0,Black,Unknown,Apple Watch Ultra 2 Unknown 0GB Black
+Watch,Apple Watch Series 9,129999,0,Unknown,Unknown,Apple Watch Series 9 Unknown 0GB Unknown
+Watch,Apple Watch Series 9,119999,0,Unknown,Unknown,Apple Watch Series 9 Unknown 0GB Unknown
+Mac,Macbook Air,479999,16,Unknown,Unknown,Macbook Air Unknown 16GB Unknown
+Mac,Macbook Air,340000,8,Midnight,Unknown,Macbook Air Unknown 8GB Midnight
+Mac,Macbook Air,340000,8,Starlight,Unknown,Macbook Air Unknown 8GB Starlight
+Mac,Macbook Air,340000,8,Space Gray,Unknown,Macbook Air Unknown 8GB Space Gray
+Mac,Macbook Air,340000,8,Silver,Unknown,Macbook Air Unknown 8GB Silver
+Mac,Macbook Air,385999,8,Midnight,Unknown,Macbook Air Unknown 8GB Midnight
+Mac,Macbook Air,385999,8,Starlight,Unknown,Macbook Air Unknown 8GB Starlight
+Mac,Macbook Air,385999,8,Space Gray,Unknown,Macbook Air Unknown 8GB Space Gray
+Mac,Macbook Air,385999,8,Silver,Unknown,Macbook Air Unknown 8GB Silver
+Mac,Macbook Air,359999,8,Midnight,Unknown,Macbook Air Unknown 8GB Midnight
+Mac,Macbook Air,359999,8,Starlight,Unknown,Macbook Air Unknown 8GB Starlight
+Mac,Macbook Air,359999,8,Space Gray,Unknown,Macbook Air Unknown 8GB Space Gray
+Mac,Macbook Air,359999,8,Silver,Unknown,Macbook Air Unknown 8GB Silver
+Mac,Macbook Air,409999,8,Midnight,Unknown,Macbook Air Unknown 8GB Midnight
+Mac,Macbook Air,409999,8,Starlight,Unknown,Macbook Air Unknown 8GB Starlight
+Mac,Macbook Air,409999,8,Space Gray,Unknown,Macbook Air Unknown 8GB Space Gray
+Mac,Macbook Air,409999,8,Silver,Unknown,Macbook Air Unknown 8GB Silver
+Mac,Macbook Air,439999,8,Midnight,Unknown,Macbook Air Unknown 8GB Midnight
+Mac,Macbook Air,439999,8,Starlight,Unknown,Macbook Air Unknown 8GB Starlight
+Mac,Macbook Air,439999,8,Space Gray,Unknown,Macbook Air Unknown 8GB Space Gray
+Mac,Macbook Air,439999,8,Silver,Unknown,Macbook Air Unknown 8GB Silver
+Mac,Macbook Air,489999,8,Midnight,Unknown,Macbook Air Unknown 8GB Midnight
+Mac,Macbook Air,489999,8,Starlight,Unknown,Macbook Air Unknown 8GB Starlight
+Mac,Macbook Air,489999,8,Space Gray,Unknown,Macbook Air Unknown 8GB Space Gray
+Mac,Macbook Air,489999,8,Silver,Unknown,Macbook Air Unknown 8GB Silver
+iPhone,iPhone 16,294999,128,Unknown,Unknown,iPhone 16 Unknown 128GB Unknown
+iPhone,iPhone 16,409999,512,Unknown,Unknown,iPhone 16 Unknown 512GB Unknown
+iPhone,iPhone 16,404999,256,Unknown,Unknown,iPhone 16 Unknown 256GB Unknown
+iPhone,iPhone 16,389999,256,Unknown,Unknown,iPhone 16 Unknown 256GB Unknown
+iPhone,iPhone 16,289999,256,Unknown,Unknown,iPhone 16 Unknown 256GB Unknown
+iPhone,iPhone 16,359999,128,Unknown,Unknown,iPhone 16 Unknown 128GB Unknown
+iPhone,iPhone 16,349999,128,Unknown,Unknown,iPhone 16 Unknown 128GB Unknown
+iPhone,iPhone 16,259999,128,Unknown,Unknown,iPhone 16 Unknown 128GB Unknown
+iPhone,iPhone 16 Pro,429999,256,Unknown,Unknown,iPhone 16 Pro Unknown 256GB Unknown
+iPhone,iPhone 16 Pro,349999,128,Unknown,Unknown,iPhone 16 Pro Unknown 128GB Unknown
+iPhone,iPhone 16 Pro,629999,1024,Unknown,Unknown,iPhone 16 Pro Unknown 1024GB Unknown
+iPhone,iPhone 16 Pro,539999,1024,Unknown,Unknown,iPhone 16 Pro Unknown 1024GB Unknown
+iPhone,iPhone 16 Pro,549999,512,Unknown,Unknown,iPhone 16 Pro Unknown 512GB Unknown
+iPhone,iPhone 16 Pro,449999,512,Unknown,Unknown,iPhone 16 Pro Unknown 512GB Unknown
+iPhone,iPhone 16 Pro,535999,256,Unknown,Unknown,iPhone 16 Pro Unknown 256GB Unknown
+iPhone,iPhone 16 Pro,479999,256,Unknown,Unknown,iPhone 16 Pro Unknown 256GB Unknown
+iPhone,iPhone 16 Pro,379999,256,Unknown,Unknown,iPhone 16 Pro Unknown 256GB Unknown
+iPhone,iPhone 16 Pro,409999,512,Unknown,Unknown,iPhone 16 Pro Unknown 512GB Unknown
+iPhone,iPhone 16 Pro,494999,256,Unknown,Unknown,iPhone 16 Pro Unknown 256GB Unknown
+iPhone,iPhone 16 Pro,439999,256,Unknown,Unknown,iPhone 16 Pro Unknown 256GB Unknown
+iPhone,iPhone 16 Pro,359999,256,Unknown,Unknown,iPhone 16 Pro Unknown 256GB Unknown
+iPhone,iPhone 16 Pro,454999,128,Unknown,Unknown,iPhone 16 Pro Unknown 128GB Unknown
+iPhone,iPhone 16 Pro,404999,128,Unknown,Unknown,iPhone 16 Pro Unknown 128GB Unknown
+iPhone,iPhone 16 Pro,319999,128,Unknown,Unknown,iPhone 16 Pro Unknown 128GB Unknown
